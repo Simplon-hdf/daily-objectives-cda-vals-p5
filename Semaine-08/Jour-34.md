@@ -4,12 +4,13 @@
 
 ### Préparation du Dossier Projet (DP)
 
-- [ ] Initialisation du repository selon les exigences du titre
-  - [ ] Création d'un README.md professionnel détaillant :
-    - [ ] Le contexte du projet
-    - [ ] Les objectifs
-    - [ ] Les technologies utilisées
-    - [ ] L'architecture globale
+- [x] Initialisation du repository selon les exigences du titre
+
+  - [x] Création d'un README.md professionnel détaillant :
+    - [x] Le contexte du projet
+    - [x] Les objectifs
+    - [x] Les technologies utilisées
+    - [x] L'architecture globale
 
 - [ ] Mise en place de la structure documentaire pour les compétences du titre
   - [ ] Dossier "Conception" pour le bloc 1
@@ -25,7 +26,6 @@
   - [ ] Clés primaires et étrangères
   - [ ] Normalisation
   - [ ] Intégrité référentielle
-  
 - [ ] Vue d'ensemble des différents types de commandes SQL
   - [ ] DDL (Data Definition Language)
   - [ ] DML (Data Manipulation Language)
@@ -34,13 +34,15 @@
 
 ### Introduction à PostgreSQL
 
-- [ ] Découverte de PostgreSQL
-  - [ ] Histoire et philosophie de PostgreSQL
+- [x] Découverte de PostgreSQL
+
+  - [x] Histoire et philosophie de PostgreSQL
   - [ ] Différences avec d'autres SGBD
   - [ ] Avantages de PostgreSQL
   - [ ] Cas d'usage adaptés
 
 - [ ] Architecture de PostgreSQL
+
   - [ ] Structure générale
   - [ ] Processus et mémoire
   - [ ] Systèmes de fichiers
@@ -51,8 +53,3 @@
   - [ ] Héritage de tables
   - [ ] Schémas et espaces de noms
   - [ ] Extensions disponibles
-
-
-
-
-
