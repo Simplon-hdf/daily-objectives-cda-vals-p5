@@ -2,7 +2,7 @@
 
 ## Objectifs du jour
 
-### Préparation du Dossier Professionnel (DP)
+### Préparation du Dossier Projet (DP)
 
 - [x] Initialisation du repository selon les exigences du titre
 
