@@ -26,7 +26,7 @@
   - [ ] Clés primaires et étrangères
   - [ ] Normalisation
   - [ ] Intégrité référentielle
-- [ ] Vue d'ensemble des différents types de commandes SQL
+- [ ] Vue d'ensemble des différents types de commandes SQLj
   - [ ] DDL (Data Definition Language)
   - [ ] DML (Data Manipulation Language)
   - [ ] DCL (Data Control Language)
@@ -41,12 +41,12 @@
   - [x] Avantages de PostgreSQL
   - [x] Cas d'usage adaptés
 
-- [ ] Architecture de PostgreSQL
+- [x] Architecture de PostgreSQL
 
-  - [ ] Structure générale
-  - [ ] Processus et mémoire
-  - [ ] Systèmes de fichiers
-  - [ ] Catalogues système
+  - [x] Structure générale
+  - [x] Processus et mémoire
+  - [x] Systèmes de fichiers
+  - [x] Catalogues système
 
 - [ ] Fonctionnalités spécifiques
   - [ ] Types de données avancés
