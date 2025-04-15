@@ -12,25 +12,25 @@
     - [x] Les technologies utilisées
     - [x] L'architecture globale
 
-- [ ] Mise en place de la structure documentaire pour les compétences du titre
-  - [ ] Dossier "Conception" pour le bloc 1
-    - [ ] Maquettes et prototypes
-    - [ ] Spécifications fonctionnelles
-    - [ ] Modélisation UML (diagrammes de classes, séquences...)
-    - [ ] Modélisation de la base de données
+- [x] Mise en place de la structure documentaire pour les compétences du titre
+  - [x] Dossier "Conception" pour le bloc 1
+    - [x] Maquettes et prototypes
+    - [x] Spécifications fonctionnelles
+    - [x] Modélisation UML (diagrammes de classes, séquences...)
+    - [x] Modélisation de la base de données
 
 ### Introduction aux bases de données relationnelles
 
-- [ ] Comprendre les concepts fondamentaux
-  - [ ] Tables et relations
-  - [ ] Clés primaires et étrangères
-  - [ ] Normalisation
-  - [ ] Intégrité référentielle
-- [ ] Vue d'ensemble des différents types de commandes SQLj
-  - [ ] DDL (Data Definition Language)
-  - [ ] DML (Data Manipulation Language)
-  - [ ] DCL (Data Control Language)
-  - [ ] TCL (Transaction Control Language)
+- [x] Comprendre les concepts fondamentaux
+  - [x] Tables et relations
+  - [x] Clés primaires et étrangères
+  - [x] Normalisation
+  - [x] Intégrité référentielle
+- [x] Vue d'ensemble des différents types de commandes SQL
+  - [x] DDL (Data Definition Language)
+  - [x] DML (Data Manipulation Language)
+  - [x] DCL (Data Control Language)
+  - [x] TCL (Transaction Control Language)
 
 ### Introduction à PostgreSQL
 
