@@ -48,8 +48,8 @@
   - [x] Systèmes de fichiers
   - [x] Catalogues système
 
-- [ ] Fonctionnalités spécifiques
-  - [ ] Types de données avancés
-  - [ ] Héritage de tables
-  - [ ] Schémas et espaces de noms
-  - [ ] Extensions disponibles
+- [x] Fonctionnalités spécifiques
+  - [x] Types de données avancés
+  - [x] Héritage de tables
+  - [x] Schémas et espaces de noms
+  - [x] Extensions disponibles
