@@ -4,55 +4,52 @@
 
 ### Préparation du Dossier Professionnel (DP)
 
-- [ ] Initialisation du repository selon les exigences du titre
-  - [ ] Création d'un README.md professionnel détaillant :
-    - [ ] Le contexte du projet
-    - [ ] Les objectifs
-    - [ ] Les technologies utilisées
-    - [ ] L'architecture globale
+- [x] Initialisation du repository selon les exigences du titre
 
-- [ ] Mise en place de la structure documentaire pour les compétences du titre
-  - [ ] Dossier "Conception" pour le bloc 1
-    - [ ] Maquettes et prototypes
-    - [ ] Spécifications fonctionnelles
-    - [ ] Modélisation UML (diagrammes de classes, séquences...)
-    - [ ] Modélisation de la base de données
+  - [x] Création d'un README.md professionnel détaillant :
+    - [x] Le contexte du projet
+    - [x] Les objectifs
+    - [x] Les technologies utilisées
+    - [x] L'architecture globale
+
+- [x] Mise en place de la structure documentaire pour les compétences du titre
+  - [x] Dossier "Conception" pour le bloc 1
+    - [x] Maquettes et prototypes
+    - [x] Spécifications fonctionnelles
+    - [x] Modélisation UML (diagrammes de classes, séquences...)
+    - [x] Modélisation de la base de données
 
 ### Introduction aux bases de données relationnelles
 
-- [ ] Comprendre les concepts fondamentaux
-  - [ ] Tables et relations
-  - [ ] Clés primaires et étrangères
-  - [ ] Normalisation
-  - [ ] Intégrité référentielle
-  
-- [ ] Vue d'ensemble des différents types de commandes SQL
-  - [ ] DDL (Data Definition Language)
-  - [ ] DML (Data Manipulation Language)
-  - [ ] DCL (Data Control Language)
-  - [ ] TCL (Transaction Control Language)
+- [x] Comprendre les concepts fondamentaux
+  - [x] Tables et relations
+  - [x] Clés primaires et étrangères
+  - [x] Normalisation
+  - [x] Intégrité référentielle
+- [x] Vue d'ensemble des différents types de commandes SQL
+  - [x] DDL (Data Definition Language)
+  - [x] DML (Data Manipulation Language)
+  - [x] DCL (Data Control Language)
+  - [x] TCL (Transaction Control Language)
 
 ### Introduction à PostgreSQL
 
-- [ ] Découverte de PostgreSQL
-  - [ ] Histoire et philosophie de PostgreSQL
-  - [ ] Différences avec d'autres SGBD
-  - [ ] Avantages de PostgreSQL
-  - [ ] Cas d'usage adaptés
+- [x] Découverte de PostgreSQL
 
-- [ ] Architecture de PostgreSQL
-  - [ ] Structure générale
-  - [ ] Processus et mémoire
-  - [ ] Systèmes de fichiers
-  - [ ] Catalogues système
+  - [x] Histoire et philosophie de PostgreSQL
+  - [x] Différences avec d'autres SGBD
+  - [x] Avantages de PostgreSQL
+  - [x] Cas d'usage adaptés
 
-- [ ] Fonctionnalités spécifiques
-  - [ ] Types de données avancés
-  - [ ] Héritage de tables
-  - [ ] Schémas et espaces de noms
-  - [ ] Extensions disponibles
+- [x] Architecture de PostgreSQL
 
+  - [x] Structure générale
+  - [x] Processus et mémoire
+  - [x] Systèmes de fichiers
+  - [x] Catalogues système
 
-
-
-
+- [x] Fonctionnalités spécifiques
+  - [x] Types de données avancés
+  - [x] Héritage de tables
+  - [x] Schémas et espaces de noms
+  - [x] Extensions disponibles
