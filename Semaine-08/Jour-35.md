@@ -30,10 +30,10 @@
     - [x] Variables d'environnement
     - [x] Test de connexion
     - [x] Commandes de base
-  - [ ] pgcli
-    - [ ] Installation
-    - [ ] Configuration
-    - [ ] Personnalisation
+  - [x] pgcli
+    - [x] Installation
+    - [x] Configuration
+    - [x] Personnalisation
 
 ### Premiers pas pratiques
 
