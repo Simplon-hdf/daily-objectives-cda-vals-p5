@@ -2,16 +2,19 @@
 
 ## Objectifs du jour
 
-### Création et manipulation d'une base de données 
-- [ ] Création d'une base de données complète
-  - [ ] Définition du schéma de la base
-  - [ ] Création des tables avec relations
+### Création et manipulation d'une base de données
 
-- [ ] Import de données avec Mockaroo
-  - [ ] Découverte de Mockaroo
-  - [ ] Génération de données de test réalistes
-  - [ ] Import des données via commandes terminal
-  - [ ] Vérification de l'intégrité des données
+- [x] Création d'une base de données complète
+
+  - [x] Définition du schéma de la base
+  - [x] Création des tables avec relations
+
+- [x] Import de données avec Mockaroo
+
+  - [x] Découverte de Mockaroo
+  - [x] Génération de données de test réalistes
+  - [x] Import des données via commandes terminal
+  - [x] Vérification de l'intégrité des données
 
 - [ ] Sauvegarde et restauration
   - [ ] Sauvegarde avec pg_dump
@@ -25,6 +28,7 @@
 ### SQL - Data Control Language (DCL) avec PostgreSQL
 
 - [ ] Gestion des utilisateurs
+
   - [ ] Création d'utilisateurs
     - [ ] CREATE USER
     - [ ] Définition du mot de passe
@@ -36,6 +40,7 @@
     - [ ] Précautions à prendre
 
 - [ ] Gestion des droits
+
   - [ ] Privilèges de base
     - [ ] SELECT
     - [ ] INSERT
@@ -50,6 +55,7 @@
     - [ ] Impact sur les utilisateurs
 
 - [ ] Bonnes pratiques de sécurité
+
   - [ ] Principe du moindre privilège
   - [ ] Gestion des mots de passe
   - [ ] Documentation des droits
@@ -57,4 +63,4 @@
 - [ ] Exercices pratiques
   - [ ] Création des utilisateurs pour une application
   - [ ] Mise en place des droits appropriés
-  - [ ] Tests de sécurité basiques 
+  - [ ] Tests de sécurité basiques
