@@ -4,30 +4,32 @@
 
 ### Installation et Configuration de PostgreSQL
 
-- [ ] Préparation de l'environnement
-  - [ ] Téléchargement de PostgreSQL
-  - [ ] Installation du SGBD
-  - [ ] Vérification de l'installation
+- [x] Préparation de l'environnement
 
-- [ ] Configuration initiale
-  - [ ] Paramétrage du service PostgreSQL
-  - [ ] Configuration du port et des connexions
-  - [ ] Gestion du fichier postgresql.conf
-  - [ ] Gestion du fichier pg_hba.conf
-  - [ ] Création du premier utilisateur
-  - [ ] Test de la connexion
+  - [x] Téléchargement de PostgreSQL
+  - [x] Installation du SGBD
+  - [x] Vérification de l'installation
 
-- [ ] Installation et configuration des outils
-  - [ ] pgAdmin 4
-    - [ ] Installation
-    - [ ] Configuration
-    - [ ] Première connexion
-    - [ ] Tour d'horizon de l'interface
-  - [ ] psql
-    - [ ] Installation
-    - [ ] Variables d'environnement
-    - [ ] Test de connexion
-    - [ ] Commandes de base
+- [x] Configuration initiale
+
+  - [x] Paramétrage du service PostgreSQL
+  - [x] Configuration du port et des connexions
+  - [x] Gestion du fichier postgresql.conf
+  - [x] Gestion du fichier pg_hba.conf
+  - [x] Création du premier utilisateur
+  - [x] Test de la connexion
+
+- [x] Installation et configuration des outils
+  - [x] pgAdmin 4
+    - [x] Installation
+    - [x] Configuration
+    - [x] Première connexion
+    - [x] Tour d'horizon de l'interface
+  - [x] psql
+    - [x] Installation
+    - [x] Variables d'environnement
+    - [x] Test de connexion
+    - [x] Commandes de base
   - [ ] pgcli
     - [ ] Installation
     - [ ] Configuration
@@ -36,6 +38,7 @@
 ### Premiers pas pratiques
 
 - [ ] Création d'une première base de données
+
   - [ ] Utilisation de createdb
   - [ ] Configuration des paramètres de base
   - [ ] Gestion des encodages
