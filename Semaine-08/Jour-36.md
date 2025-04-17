@@ -16,14 +16,14 @@
   - [x] Import des données via commandes terminal
   - [x] Vérification de l'intégrité des données
 
-- [ ] Sauvegarde et restauration
-  - [ ] Sauvegarde avec pg_dump
-    - [ ] Options et formats disponibles
-    - [ ] Sauvegarde complète vs partielle
-  - [ ] Restauration d'une base de données
-    - [ ] Utilisation de psql pour la restauration
-    - [ ] Gestion des erreurs lors de la restauration
-  - [ ] Planification des sauvegardes
+- [x] Sauvegarde et restauration
+  - [x] Sauvegarde avec pg_dump
+    - [x] Options et formats disponibles
+    - [x] Sauvegarde complète vs partielle
+  - [x] Restauration d'une base de données
+    - [x] Utilisation de psql pour la restauration
+    - [x] Gestion des erreurs lors de la restauration
+  - [x] Planification des sauvegardes
 
 ### SQL - Data Control Language (DCL) avec PostgreSQL
 
