@@ -24,21 +24,21 @@
   - [x] Savoir ce qu'est une distribution Linux
   - [x] Comprendre l'arborescence de Linux
 
-- [ ] Découverte du Terminal :
+- [x] Découverte du Terminal :
 
-  - [ ] Comprendre la différence entre une interface en ligne de commande et une interface graphique
-  - [ ] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH
-  - [ ] Comprendre comment fonctionne un shell
-  - [ ] Comprendre le fonctionnement des alias
-  - [ ] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
-  - [ ] Comprendre le principe des options dans les commandes
-  - [ ] Terminal Tutor (https://www.terminaltutor.com)
+  - [x] Comprendre la différence entre une interface en ligne de commande et une interface graphique
+  - [x] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH
+  - [x] Comprendre comment fonctionne un shell
+  - [x] Comprendre le fonctionnement des alias
+  - [x] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
+  - [x] Comprendre le principe des options dans les commandes
+  - [x] Terminal Tutor (https://www.terminaltutor.com)
 
-- [ ] Choix de son éditeur, configuration et customisation
-- [ ] Choix / installation d'un terminal (Linux, Mac ou Windows)
+- [x] Choix de son éditeur, configuration et customisation
+- [x] Choix / installation d'un terminal (Linux, Mac ou Windows)
 
-- [ ] Comprendre l'intérêt des raccourcis clavier
-- [ ] Découverte des raccourcis clavier Linux :
-  - [ ] Navigateur (fenêtres, onglets, navigation, etc …)
-  - [ ] Terminal (fenêtres, onglets, commandes)
-  - [ ] Découverte et installation de Albert (Linux) / Alfred (Mac)
+- [x] Comprendre l'intérêt des raccourcis clavier
+- [x] Découverte des raccourcis clavier Linux :
+  - [x] Navigateur (fenêtres, onglets, navigation, etc …)
+  - [x] Terminal (fenêtres, onglets, commandes)
+  - [x] Découverte et installation de Albert (Linux) / Alfred (Mac)
