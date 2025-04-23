@@ -10,19 +10,19 @@
 
 #### Environnement de travail
 
-- [ ] Configuration de son environnement de travail
+- [x] Configuration de son environnement de travail
 
-  - [ ] Mise à jour OS (Linux, Windows, Mac)
-  - [ ] Installation (Discord)
-  - [ ] Installation navigateur (Developper Edition)
-  - [ ] Création et configuration Mail pro
-  - [ ] Création et configuration Twitter pro
+  - [x] Mise à jour OS (Linux, Windows, Mac)
+  - [x] Installation (Discord)
+  - [x] Installation navigateur (Developper Edition)
+  - [x] Création et configuration Mail pro
+  - [x] Création et configuration Twitter pro
 
-- [ ] Découverte de Linux :
+- [x] Découverte de Linux :
 
-  - [ ] Savoir ce qu'est Linux
-  - [ ] Savoir ce qu'est une distribution Linux
-  - [ ] Comprendre l'arborescence de Linux
+  - [x] Savoir ce qu'est Linux
+  - [x] Savoir ce qu'est une distribution Linux
+  - [x] Comprendre l'arborescence de Linux
 
 - [ ] Découverte du Terminal :
 
