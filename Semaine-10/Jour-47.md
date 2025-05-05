@@ -22,8 +22,8 @@
   - [x] Utiliser la méthode d’entrée de l’application
   - [x] Afficher des informations dans la console
   - [x] Savoir récupérer des informations saisies au clavier
-  - [ ] Utiliser les structures conditionnelles
-  - [ ] Connaître les différentes structures répétitives
+  - [x] Utiliser les structures conditionnelles
+  - [x] Connaître les différentes structures répétitives
 
 - [ ] Découvrir le mécanisme de typage
 
