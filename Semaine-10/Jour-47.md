@@ -4,43 +4,49 @@
 
 ### Brief NetStream
 
-- [ ] Réalisation d'une grille d'évaluation
+- [x] Réalisation d'une grille d'évaluation
 - [ ] Correction croisée entre groupes
 
 ### Introduction à Java et à la POO
 
-- [ ] Découvrir l'environnement de développement Java
-  - [ ] Installation du JDK et configuration de l'IDE (Eclipse, IntelliJ, etc.)
-  - [ ] Premier programme "Hello World"
-  - [ ] Comprendre la compilation et l'exécution en Java
-  - [ ] Compiler et exécuter son premier programme sans IDE
+- [x] Découvrir l'environnement de développement Java
 
-- [ ] Découvrir la syntaxe basique
-  - [ ] Réaliser une classe minimale
-  - [ ] Utiliser la méthode d’entrée de l’application
-  - [ ] Afficher des informations dans la console
-  - [ ] Savoir récupérer des informations saisies au clavier
-  - [ ] Utiliser les structures conditionnelles
-  - [ ] Connaître les différentes structures répétitives
+  - [x] Installation du JDK et configuration de l'IDE (Eclipse, IntelliJ, etc.)
+  - [x] Premier programme "Hello World"
+  - [x] Comprendre la compilation et l'exécution en Java
+  - [x] Compiler et exécuter son premier programme sans IDE
 
-- [ ] Découvrir le mécanisme de typage 
-  - [ ] Comprendre les types existants
-  - [ ] Savoir convertir les variables d'un type à un autre
+- [x] Découvrir la syntaxe basique
 
-- [ ] Premiers pas en POO
-  - [ ] Comprendre les concepts fondamentaux de la POO en Java
-    - [ ] Classes et Objets
-    - [ ] Attributs et Méthodes
+  - [x] Réaliser une classe minimale
+  - [x] Utiliser la méthode d’entrée de l’application
+  - [x] Afficher des informations dans la console
+  - [x] Savoir récupérer des informations saisies au clavier
+  - [x] Utiliser les structures conditionnelles
+  - [x] Connaître les différentes structures répétitives
+
+- [x] Découvrir le mécanisme de typage
+
+  - [x] Comprendre les types existants
+  - [x] Savoir convertir les variables d'un type à un autre
+
+- [x] Premiers pas en POO
+
+  - [x] Comprendre les concepts fondamentaux de la POO en Java
+    - [x] Classes et Objets
+    - [x] Attributs et Méthodes
     - [ ] Constructeurs
-  - [ ] Définir une classe avec attributs
-  - [ ] Créer une instance
-  - [ ] Appeler une méthode d'instance
+  - [x] Définir une classe avec attributs
+  - [x] Créer une instance
+  - [x] Appeler une méthode d'instance
 
 - [ ] Comprendre et corriger les erreurs
+
   - [ ] Lire un message de compilation
   - [ ] Stratégies de débogage de base
 
 - [ ] Pour aller plus loin (optionnel)
+
   - [ ] Comprendre l'utilisation de Maven
   - [ ] Installer et configurer Maven sur son environnement
   - [ ] Savoir lire un fichier pom.xml
