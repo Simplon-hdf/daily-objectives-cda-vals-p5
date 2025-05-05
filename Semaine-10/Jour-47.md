@@ -30,10 +30,10 @@
   - [x] Comprendre les types existants
   - [x] Savoir convertir les variables d'un type à un autre
 
-- [ ] Premiers pas en POO
+- [x] Premiers pas en POO
 
-  - [ ] Comprendre les concepts fondamentaux de la POO en Java
-    - [ ] Classes et Objets
+  - [x] Comprendre les concepts fondamentaux de la POO en Java
+    - [x] Classes et Objets
     - [ ] Attributs et Méthodes
     - [ ] Constructeurs
   - [ ] Définir une classe avec attributs
