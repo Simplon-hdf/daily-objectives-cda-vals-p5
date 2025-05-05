@@ -36,9 +36,9 @@
     - [x] Classes et Objets
     - [x] Attributs et Méthodes
     - [ ] Constructeurs
-  - [ ] Définir une classe avec attributs
-  - [ ] Créer une instance
-  - [ ] Appeler une méthode d'instance
+  - [x] Définir une classe avec attributs
+  - [x] Créer une instance
+  - [x] Appeler une méthode d'instance
 
 - [ ] Comprendre et corriger les erreurs
 
