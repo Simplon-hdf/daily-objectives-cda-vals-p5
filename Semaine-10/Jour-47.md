@@ -34,7 +34,7 @@
 
   - [x] Comprendre les concepts fondamentaux de la POO en Java
     - [x] Classes et Objets
-    - [ ] Attributs et Méthodes
+    - [x] Attributs et Méthodes
     - [ ] Constructeurs
   - [ ] Définir une classe avec attributs
   - [ ] Créer une instance
