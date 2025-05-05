@@ -13,15 +13,15 @@
 
   - [x] Installation du JDK et configuration de l'IDE (Eclipse, IntelliJ, etc.)
   - [x] Premier programme "Hello World"
-  - [ ] Comprendre la compilation et l'exécution en Java
-  - [ ] Compiler et exécuter son premier programme sans IDE
+  - [x] Comprendre la compilation et l'exécution en Java
+  - [x] Compiler et exécuter son premier programme sans IDE
 
-- [ ] Découvrir la syntaxe basique
+- [x] Découvrir la syntaxe basique
 
-  - [ ] Réaliser une classe minimale
-  - [ ] Utiliser la méthode d’entrée de l’application
-  - [ ] Afficher des informations dans la console
-  - [ ] Savoir récupérer des informations saisies au clavier
+  - [x] Réaliser une classe minimale
+  - [x] Utiliser la méthode d’entrée de l’application
+  - [x] Afficher des informations dans la console
+  - [x] Savoir récupérer des informations saisies au clavier
   - [ ] Utiliser les structures conditionnelles
   - [ ] Connaître les différentes structures répétitives
 
