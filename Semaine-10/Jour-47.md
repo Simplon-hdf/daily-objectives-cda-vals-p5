@@ -28,7 +28,7 @@
 - [x] Découvrir le mécanisme de typage
 
   - [x] Comprendre les types existants
-  - [ ] Savoir convertir les variables d'un type à un autre
+  - [x] Savoir convertir les variables d'un type à un autre
 
 - [ ] Premiers pas en POO
 
