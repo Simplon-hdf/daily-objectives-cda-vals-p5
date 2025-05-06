@@ -54,5 +54,5 @@
 
 - [x] Exercices pratiques
   - [x] TP fourni
-  - [ ] Exercice Devinette
+  - [x] Exercice Devinette
   - [ ] Exercice Calculatrice
