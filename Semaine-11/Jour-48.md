@@ -11,7 +11,7 @@
   - [x] Fonctionnelle
 - [x] Découverte des concepts clés de la POO :
   - [x] Classe
-  - [ ] Objet
+  - [x] Objet
   - [ ] Attribut
   - [ ] Méthode
   - [ ] Instanciation
