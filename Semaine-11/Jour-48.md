@@ -4,9 +4,9 @@
 
 ### Programmation Orientée Objet - Introduction et manipulation de base
 
-- [ ] Découverte des types de programmation possibles (avantages et inconvénients de chacun)
-  - [ ] Impérative
-  - [ ] Procédurale
+- [x] Découverte des types de programmation possibles (avantages et inconvénients de chacun)
+  - [x] Impérative
+  - [x] Procédurale
   - [ ] Orientée objet
   - [ ] Fonctionnelle
 - [ ] Découverte des concepts clés de la POO :
