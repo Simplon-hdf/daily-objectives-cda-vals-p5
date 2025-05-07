@@ -12,8 +12,8 @@
 - [x] Découverte des concepts clés de la POO :
   - [x] Classe
   - [x] Objet
-  - [ ] Attribut
-  - [ ] Méthode
+  - [x] Attribut
+  - [x] Méthode
   - [ ] Instanciation
   - [ ] Constructeur
   - [ ] Accesseurs
