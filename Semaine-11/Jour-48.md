@@ -9,8 +9,8 @@
   - [x] Procédurale
   - [x] Orientée objet
   - [x] Fonctionnelle
-- [ ] Découverte des concepts clés de la POO :
-  - [ ] Classe
+- [x] Découverte des concepts clés de la POO :
+  - [x] Classe
   - [ ] Objet
   - [ ] Attribut
   - [ ] Méthode
