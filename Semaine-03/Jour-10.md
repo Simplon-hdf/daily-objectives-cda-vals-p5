@@ -4,25 +4,25 @@
 
 ### Rattrapages
 
-- [ ] Revoir les méthodologies non comprises
-- [ ] Finir les dailys précédents
+- [x] Revoir les méthodologies non comprises
+- [x] Finir les dailys précédents
 
 ### SCRUM
 
-- [ ] Savoir réaliser un daily meeting
-- [ ] Etudier les rapports SCRUM
-  - [ ] Etudier la vélocité
-  - [ ] Savoir construire le burndown Chart
-  - [ ] Comprendre le tableau de la backlog
-- [ ] Etudier le rituel de la retrospective en détail
-  - [ ] Comprendre les Objectifs
-  - [ ] Voir les différents supports possibles
-  - [ ] Trouver les participants
-- [ ] Etudier le rituel de la review
-  - [ ] Objectifs
-  - [ ] Participants
-  - [ ] Fonctionnement
-- [ ] Etude des outils
-  - [ ] GitHub Project
-  - [ ] Trello
-  - [ ] Jira
+- [x] Savoir réaliser un daily meeting
+- [x] Etudier les rapports SCRUM
+  - [x] Etudier la vélocité
+  - [x] Savoir construire le burndown Chart
+  - [x] Comprendre le tableau de la backlog
+- [x] Etudier le rituel de la retrospective en détail
+  - [x] Comprendre les Objectifs
+  - [x] Voir les différents supports possibles
+  - [x] Trouver les participants
+- [x] Etudier le rituel de la review
+  - [x] Objectifs
+  - [x] Participants
+  - [x] Fonctionnement
+- [x] Etude des outils
+  - [x] GitHub Project
+  - [x] Trello
+  - [x] Jira
