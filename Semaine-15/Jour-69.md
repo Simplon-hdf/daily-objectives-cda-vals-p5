@@ -20,7 +20,7 @@ Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
   - [x] Vérification de l'installation
   - [x] Premier test avec "Hello World"
 
-- [ ] Comprendre les concepts de base
-  - [ ] Images vs Conteneurs
-  - [ ] Registres Docker
-  - [ ] Docker Hub
+- [x] Comprendre les concepts de base
+  - [x] Images vs Conteneurs
+  - [x] Registres Docker
+  - [x] Docker Hub
