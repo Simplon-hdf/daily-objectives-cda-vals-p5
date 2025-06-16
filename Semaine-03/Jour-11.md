@@ -2,8 +2,7 @@
 
 ## Mardi 11/03/2025 :
 
-- [ ] Review du brief Cheat Sheet
-- [ ] Ateliers sur la méthodelogie SCRUM
-	- [ ] Atelier de priorisation "Survie sur la Lune"
-	- [ ] Estimadog pour l'utilisation du Planning Poker
-
+- [x] Review du brief Cheat Sheet
+- [x] Ateliers sur la méthodelogie SCRUM
+  - [x] Atelier de priorisation "Survie sur la Lune"
+  - [x] Estimadog pour l'utilisation du Planning Poker
