@@ -6,8 +6,9 @@
 
 Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
 
-- [ ] Découverte du Dockerfile
-  - [ ] Comprendre la structure d'un Dockerfile
+- [x] Découverte du Dockerfile
+
+  - [x] Comprendre la structure d'un Dockerfile
   - [ ] Maîtriser les instructions de base
     - [ ] FROM
     - [ ] WORKDIR
@@ -18,12 +19,14 @@ Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
     - [ ] CMD et ENTRYPOINT
 
 - [ ] Construction d'images
+
   - [ ] Utiliser la commande docker build
   - [ ] Comprendre le système de cache
   - [ ] Optimiser la taille des images
   - [ ] Utiliser le multi-stage build
 
 - [ ] Bonnes pratiques
+
   - [ ] Sécurité des images
   - [ ] Optimisation des layers
   - [ ] Documentation du Dockerfile
@@ -32,4 +35,4 @@ Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
 - [ ] Travaux Pratiques
   - [ ] Créer une image pour une application Node.js
   - [ ] Optimiser l'image avec multi-stage build
-  - [ ] Publier l'image sur Docker Hub 
+  - [ ] Publier l'image sur Docker Hub
