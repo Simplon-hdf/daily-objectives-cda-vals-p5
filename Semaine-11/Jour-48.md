@@ -14,7 +14,7 @@
   - [x] Objet
   - [x] Attribut
   - [x] Méthode
-  - [ ] Instanciation
+  - [x] Instanciation
   - [ ] Constructeur
   - [ ] Accesseurs
   - [ ] Encapsulation
