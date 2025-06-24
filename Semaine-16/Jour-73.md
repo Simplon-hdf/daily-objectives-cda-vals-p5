@@ -6,28 +6,31 @@
 
 Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
 
-- [ ] Mise en pratique globale
-  - [ ] Création d'une application complète multi-conteneurs
-  - [ ] Mise en place d'une stack de développement
-    - [ ] Application Frontend
-    - [ ] API Backend
-    - [ ] Base de données
-    - [ ] Serveur de cache
+- [x] Mise en pratique globale
 
-- [ ] Configuration avancée
-  - [ ] Mise en place des volumes persistants
-  - [ ] Configuration du réseau
-  - [ ] Variables d'environnement
-  - [ ] Gestion des secrets
+  - [x] Création d'une application complète multi-conteneurs
+  - [x] Mise en place d'une stack de développement
+    - [x] Application Frontend
+    - [x] API Backend
+    - [x] Base de données
+    - [x] Serveur de cache
 
-- [ ] Déploiement et maintenance
-  - [ ] Création des Dockerfiles optimisés
-  - [ ] Configuration de Docker Compose
-  - [ ] Tests et débogage
-  - [ ] Documentation du projet
+- [x] Configuration avancée
 
-- [ ] Bonnes pratiques de production
-  - [ ] Sécurisation des conteneurs
-  - [ ] Monitoring et logging
-  - [ ] Stratégies de backup
-  - [ ] Procédures de mise à jour 
+  - [x] Mise en place des volumes persistants
+  - [x] Configuration du réseau
+  - [x] Variables d'environnement
+  - [x] Gestion des secrets
+
+- [x] Déploiement et maintenance
+
+  - [x] Création des Dockerfiles optimisés
+  - [x] Configuration de Docker Compose
+  - [x] Tests et débogage
+  - [x] Documentation du projet
+
+- [x] Bonnes pratiques de production
+  - [x] Sécurisation des conteneurs
+  - [x] Monitoring et logging
+  - [x] Stratégies de backup
+  - [x] Procédures de mise à jour
