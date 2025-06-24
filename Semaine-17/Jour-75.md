@@ -28,7 +28,7 @@ Ressource : [Formation GitHub Actions](https://github.com/HachemiH/formation-git
   - [x] Actions
   - [x] Runners
 
-- [ ] Travaux Pratiques
-  - [ ] Explorer le Marketplace GitHub Actions
-  - [ ] Analyser des workflows existants
-  - [ ] Préparer son environnement de travail
+- [x] Travaux Pratiques
+  - [x] Explorer le Marketplace GitHub Actions
+  - [x] Analyser des workflows existants
+  - [x] Préparer son environnement de travail
