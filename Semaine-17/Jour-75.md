@@ -20,13 +20,13 @@ Ressource : [Formation GitHub Actions](https://github.com/HachemiH/formation-git
   - [x] Explorer l'interface GitHub Actions
   - [x] Comprendre la facturation et les limites
 
-- [ ] Composants de base
+- [x] Composants de base
 
-  - [ ] Workflows
-  - [ ] Jobs
-  - [ ] Steps
-  - [ ] Actions
-  - [ ] Runners
+  - [x] Workflows
+  - [x] Jobs
+  - [x] Steps
+  - [x] Actions
+  - [x] Runners
 
 - [ ] Travaux Pratiques
   - [ ] Explorer le Marketplace GitHub Actions
