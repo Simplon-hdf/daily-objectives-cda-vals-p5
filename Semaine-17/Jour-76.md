@@ -27,8 +27,8 @@ Ressource : [Formation GitHub Actions](https://github.com/HachemiH/formation-git
   - [x] Dépendances entre jobs
   - [x] Conditions d'exécution
 
-- [ ] Travaux Pratiques
-  - [ ] Créer un workflow de base
-  - [ ] Tester différents déclencheurs
-  - [ ] Configurer des jobs en parallèle
-  - [ ] Gérer les dépendances entre jobs
+- [x] Travaux Pratiques
+  - [x] Créer un workflow de base
+  - [x] Tester différents déclencheurs
+  - [x] Configurer des jobs en parallèle
+  - [x] Gérer les dépendances entre jobs
