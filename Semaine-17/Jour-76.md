@@ -20,12 +20,12 @@ Ressource : [Formation GitHub Actions](https://github.com/HachemiH/formation-git
   - [x] Événements manuels (workflow_dispatch)
   - [x] Filtres de branches et de tags
 
-- [ ] Gestion des jobs
+- [x] Gestion des jobs
 
-  - [ ] Définition des runners
-  - [ ] Configuration de l'environnement
-  - [ ] Dépendances entre jobs
-  - [ ] Conditions d'exécution
+  - [x] Définition des runners
+  - [x] Configuration de l'environnement
+  - [x] Dépendances entre jobs
+  - [x] Conditions d'exécution
 
 - [ ] Travaux Pratiques
   - [ ] Créer un workflow de base
