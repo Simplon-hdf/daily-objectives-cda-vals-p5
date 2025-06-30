@@ -6,27 +6,30 @@
 
 Ressource : [Formation GitHub Actions](https://github.com/HachemiH/formation-github-actions)
 
-- [ ] Utilisation des Actions
-  - [ ] Explorer le Marketplace
-  - [ ] Actions officielles GitHub
-  - [ ] Actions communautaires
-  - [ ] Création d'actions personnalisées
-  - [ ] Versionnement des actions
+- [x] Utilisation des Actions
 
-- [ ] Gestion des secrets
-  - [ ] Configuration des secrets
-  - [ ] Utilisation dans les workflows
-  - [ ] Bonnes pratiques de sécurité
-  - [ ] Audit des secrets
+  - [x] Explorer le Marketplace
+  - [x] Actions officielles GitHub
+  - [x] Actions communautaires
+  - [x] Création d'actions personnalisées
+  - [x] Versionnement des actions
 
-- [ ] Variables d'environnement
-  - [ ] Configuration des variables
-  - [ ] Portée des variables
-  - [ ] Variables par environnement
-  - [ ] Utilisation dans les workflows
+- [x] Gestion des secrets
 
-- [ ] Travaux Pratiques
-  - [ ] Intégrer des actions du Marketplace
-  - [ ] Créer une action personnalisée simple
-  - [ ] Configurer des secrets
-  - [ ] Mettre en place des variables d'environnement 
+  - [x] Configuration des secrets
+  - [x] Utilisation dans les workflows
+  - [x] Bonnes pratiques de sécurité
+  - [x] Audit des secrets
+
+- [x] Variables d'environnement
+
+  - [x] Configuration des variables
+  - [x] Portée des variables
+  - [x] Variables par environnement
+  - [x] Utilisation dans les workflows
+
+- [x] Travaux Pratiques
+  - [x] Intégrer des actions du Marketplace
+  - [x] Créer une action personnalisée simple
+  - [x] Configurer des secrets
+  - [x] Mettre en place des variables d'environnement
