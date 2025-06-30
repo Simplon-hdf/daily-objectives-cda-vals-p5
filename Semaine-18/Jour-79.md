@@ -6,11 +6,11 @@
 
 - [x] Comprendre l'importance des tests dans le cycle de vie logiciel.
 - [x] Découvrir la pyramide des tests (Tests Unitaires, Intégration, E2E).
-- [ ] Apprendre le vocabulaire essentiel :
-  - [ ] Test Case, Test Suite, Test Runner
-  - [ ] Assertion
-  - [ ] Fixture, Mock, Stub
-  - [ ] System Under Test (SUT)
+- [x] Apprendre le vocabulaire essentiel :
+  - [x] Test Case, Test Suite, Test Runner
+  - [x] Assertion
+  - [x] Fixture, Mock, Stub
+  - [x] System Under Test (SUT)
 - [ ] Comprendre les bonnes pratiques :
   - [ ] Structure d'un test (Arrange-Act-Assert / Given-When-Then).
   - [ ] Tests isolés, indépendants et reproductibles.
